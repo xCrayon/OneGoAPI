@@ -1,4 +1,4 @@
-from ubuntu-dev:latest
+from duruo850/ubuntu18.04-python3.6:latest
 MAINTAINER crayon 944292511@qq.com
 WORKDIR /usr/src
 RUN apt update

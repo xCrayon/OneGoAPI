@@ -1,0 +1,768 @@
+{
+	"Code": "0",
+	"Message": "操作成功",
+	"IsSuccessful": true,
+	"Data": {
+		"CategoryList": [{
+				"CategoryId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+				"CategoryCode": "05_channelhome",
+				"CategoryName": "精选肉类",
+				"Childs": [{
+						"CategoryId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"CategoryCode": "05_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170615/9288709152481999_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "2a86d754-d089-4a6b-8544-371d81f7ed14",
+						"CategoryCode": "eggs",
+						"CategoryName": "蛋",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200303/9288740045006947_220.jpg",
+						"PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb"
+					},
+					{
+						"CategoryId": "6a31430a-31ce-49b4-8cd1-91602abfe6a9",
+						"CategoryCode": "0510_niupai",
+						"CategoryName": "牛排",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2018/180803/9570202619127043_220.jpg",
+						"PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb"
+					},
+					{
+						"CategoryId": "e3c21eb4-8d8e-464b-9717-cc75493beba4",
+						"CategoryCode": "qinlei",
+						"CategoryName": "禽类",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200303/9288740045039715_220.jpg",
+						"PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb"
+					},
+					{
+						"CategoryId": "f89ac515-f6f9-4110-a716-8fd928135ad8",
+						"CategoryCode": "0501_jinkouniurou",
+						"CategoryName": "进口牛肉",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img09.yiguoimg.com/e/items/2017/170615/9288709152318159_220.jpg",
+						"PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb"
+					},
+					{
+						"CategoryId": "6e4dd5c2-4c16-438e-b870-ab845a4b714b",
+						"CategoryCode": "0503_zhurou",
+						"CategoryName": "猪肉",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170615/9288709152252623_220.jpg",
+						"PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb"
+					},
+					{
+						"CategoryId": "db6518e8-c360-46f7-b9ae-dbe4ae45e84c",
+						"CategoryCode": "0504_yangrou",
+						"CategoryName": "羊肉/其他肉类",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170615/9288709152219855_220.jpg",
+						"PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb"
+					}
+				],
+				"Grade": 1,
+				"HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+				"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170615/9288709152481999_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+				"CategoryCode": "04_channelhome",
+				"CategoryName": "海鲜水产",
+				"Childs": [{
+						"CategoryId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"CategoryCode": "04_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img13.yiguoimg.com/e/items/2017/170619/9288709276607187_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "0b3b71c3-4969-4929-abc8-4479b72102ed",
+						"CategoryCode": "0411_yinxueyu",
+						"CategoryName": "鳕鱼",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img13.yiguoimg.com/d/items/2018/180815/9570204213290255_220.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "2f88099f-4c8d-43a9-8ab9-d0af1d560de6",
+						"CategoryCode": "0412_shuichanlihe",
+						"CategoryName": "海鲜礼盒",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img13.yiguoimg.com/d/items/2019/191204/9570214606514052_144.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "69a9962b-0a8c-4a58-b6e8-f9a15d73da80",
+						"CategoryCode": "0411_xiequan",
+						"CategoryName": "大闸蟹券",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img12.yiguoimg.com/d/items/2019/190813/9570213791409933_144.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "4b39faa9-96ab-453f-90c3-93aa7cee24c8",
+						"CategoryCode": "0401_yu",
+						"CategoryName": "鱼",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170616/9288709169193680_220.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "d9e3b53c-344d-4a83-b298-e61008e1b1bc",
+						"CategoryCode": "0402_sanwenyu",
+						"CategoryName": "三文鱼",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170616/9288709169128144_220.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "75b795d9-b684-4676-bde4-224f44545b31",
+						"CategoryCode": "0403_xia",
+						"CategoryName": "虾蟹",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169062608_220.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "fa496d72-50c6-4477-bdd3-6d8d71bc8e36",
+						"CategoryCode": "0405_beilei",
+						"CategoryName": "贝",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170616/9288709168702160_220.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					},
+					{
+						"CategoryId": "72228b91-2f01-4ee7-9da7-4dea02c13e3c",
+						"CategoryCode": "0408_tesehaichan",
+						"CategoryName": "加工水产",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200514/9570215352019118_144.jpg",
+						"PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577"
+					}
+				],
+				"Grade": 1,
+				"HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+				"PictureUrl": "https://img13.yiguoimg.com/e/items/2017/170619/9288709276607187_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "a250e942-b409-4483-8e37-57268ea15762",
+				"CategoryCode": "08_channelhome",
+				"CategoryName": "乳品糕点",
+				"Childs": [{
+						"CategoryId": "a250e942-b409-4483-8e37-57268ea15762",
+						"CategoryCode": "08_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "a250e942-b409-4483-8e37-57268ea15762",
+						"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170619/9288709271954131_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "734f577b-d5da-4211-8d36-c97c0ec2e914",
+						"CategoryCode": "0804_niunai",
+						"CategoryName": "乳品",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "a250e942-b409-4483-8e37-57268ea15762",
+						"PictureUrl": "https://img09.yiguoimg.com/e/items/2017/170616/9288709169685200_220.jpg",
+						"PriorId": "a250e942-b409-4483-8e37-57268ea15762"
+					},
+					{
+						"CategoryId": "d02fd19c-b694-49a7-a457-d2b90ef8f15f",
+						"CategoryCode": "0806_dangao",
+						"CategoryName": "蛋糕/面包",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "a250e942-b409-4483-8e37-57268ea15762",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169619664_220.jpg",
+						"PriorId": "a250e942-b409-4483-8e37-57268ea15762"
+					},
+					{
+						"CategoryId": "7b7a06c3-1383-4085-9894-53edf038d217",
+						"CategoryCode": "0807_tiandian",
+						"CategoryName": "甜点",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "a250e942-b409-4483-8e37-57268ea15762",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170616/9288709168636624_220.jpg",
+						"PriorId": "a250e942-b409-4483-8e37-57268ea15762"
+					}
+				],
+				"Grade": 1,
+				"HighId": "a250e942-b409-4483-8e37-57268ea15762",
+				"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170619/9288709271954131_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+				"CategoryCode": "03_channelhome",
+				"CategoryName": "新鲜蔬菜",
+				"Childs": [{
+						"CategoryId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+						"CategoryCode": "03_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+						"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170616/9288709170143952_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "0dc91949-1fcf-4c5e-85f3-83b6e63db1e6",
+						"CategoryCode": "0301_yecailei",
+						"CategoryName": "叶菜类",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170799312_220.jpg",
+						"PriorId": "a4eda634-3f91-4e40-a926-7c36a4714573"
+					},
+					{
+						"CategoryId": "366d4aa9-2a97-4909-beda-d7fbd742a8b1",
+						"CategoryCode": "0302_genjinglei",
+						"CategoryName": "根茎茄果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170766544_220.jpg",
+						"PriorId": "a4eda634-3f91-4e40-a926-7c36a4714573"
+					},
+					{
+						"CategoryId": "33c47c03-7c85-4d05-9c1d-f05bf214dded",
+						"CategoryCode": "0306_jungu",
+						"CategoryName": "菌菇",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170616/9288709170668240_220.jpg",
+						"PriorId": "a4eda634-3f91-4e40-a926-7c36a4714573"
+					}
+				],
+				"Grade": 1,
+				"HighId": "a4eda634-3f91-4e40-a926-7c36a4714573",
+				"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170616/9288709170143952_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+				"CategoryCode": "10_channelhome",
+				"CategoryName": "方便速食",
+				"Childs": [{
+						"CategoryId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+						"CategoryCode": "10_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170619/9288709271986899_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "0038429e-74e5-4d76-9c06-22855b9d3636",
+						"CategoryCode": "1001_lengdongdianxin",
+						"CategoryName": "冷冻点心",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170616/9288709170111184_220.jpg",
+						"PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6"
+					},
+					{
+						"CategoryId": "c310845a-e757-472d-acaf-235ffa99f40d",
+						"CategoryCode": "1005_lengcangshushi",
+						"CategoryName": "熟食",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+						"PictureUrl": "https://img09.yiguoimg.com/e/items/2017/170616/9288709169980112_220.jpg",
+						"PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6"
+					},
+					{
+						"CategoryId": "ad54ecd7-2af6-4c39-b88a-6767d6a4aeb4",
+						"CategoryCode": "1006_banchengpincai",
+						"CategoryName": "半成品菜",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170616/9288709169947344_220.jpg",
+						"PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6"
+					}
+				],
+				"Grade": 1,
+				"HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+				"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170619/9288709271986899_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+				"CategoryCode": "07_channelhome",
+				"CategoryName": "粮油杂货",
+				"Childs": [{
+						"CategoryId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+						"CategoryCode": "07_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+						"PictureUrl": "https://img10.yiguoimg.com/e/items/2017/170615/9288709120729807_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "6ac1ffc4-97a6-4cfb-b450-1862a05f040f",
+						"CategoryCode": "0701_mi",
+						"CategoryName": "米面主食",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+						"PictureUrl": "https://img13.yiguoimg.com/e/items/2017/170615/9288709120926415_220.jpg",
+						"PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e"
+					},
+					{
+						"CategoryId": "15d4d187-3647-4fb7-a0c2-4c3d4fe1d0fc",
+						"CategoryCode": "0704_you",
+						"CategoryName": "油盐调料",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170615/9288709120762575_220.jpg",
+						"PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e"
+					},
+					{
+						"CategoryId": "1339af62-7b56-4067-861e-f89b9e265f03",
+						"CategoryCode": "0706_ganhuo",
+						"CategoryName": "杂粮干货",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170615/9288709120664271_220.jpg",
+						"PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e"
+					},
+					{
+						"CategoryId": "33a7a858-ef0c-48fd-b8ec-fc2a55337461",
+						"CategoryCode": "0707_guoganlingshi",
+						"CategoryName": "坚果零食",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+						"PictureUrl": "https://img13.yiguoimg.com/e/items/2017/170615/9288709120631503_220.jpg",
+						"PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e"
+					}
+				],
+				"Grade": 1,
+				"HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+				"PictureUrl": "https://img10.yiguoimg.com/e/items/2017/170615/9288709120729807_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+				"CategoryCode": "09_channelhome",
+				"CategoryName": "食品饮料",
+				"Childs": [{
+						"CategoryId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"CategoryCode": "09_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "https://img10.yiguoimg.com/e/items/2017/170615/9288709121811151_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "5425060f-d2a0-4205-a0e4-3f8269ebe7c7",
+						"CategoryCode": "ice",
+						"CategoryName": "冷饮/雪糕",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "",
+						"PriorId": "7044ff88-2139-4874-ac5b-b8e2275d64b5"
+					},
+					{
+						"CategoryId": "722a78cd-0313-44fa-82a7-79bb85ae726a",
+						"CategoryCode": "0901_shui",
+						"CategoryName": "水",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "https://img09.yiguoimg.com/e/items/2017/170615/9288709121778383_220.jpg",
+						"PriorId": "7044ff88-2139-4874-ac5b-b8e2275d64b5"
+					},
+					{
+						"CategoryId": "f9004467-d514-47a3-a50c-90e1aee87ab6",
+						"CategoryCode": "0903_chongtiaoyinpin",
+						"CategoryName": "冲调茶饮",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170615/9288709121712847_220.jpg",
+						"PriorId": "7044ff88-2139-4874-ac5b-b8e2275d64b5"
+					},
+					{
+						"CategoryId": "880514a5-a7f2-4c0f-bdcc-01c0ef818326",
+						"CategoryCode": "0904_jiujiuju",
+						"CategoryName": "葡萄酒/酒具",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "https://img11.yiguoimg.com/e/items/2017/170615/9288709121680079_220.jpg",
+						"PriorId": "7044ff88-2139-4874-ac5b-b8e2275d64b5"
+					},
+					{
+						"CategoryId": "eee11a0d-5368-467b-a1de-3d110bff137d",
+						"CategoryCode": "xiushi",
+						"CategoryName": "休闲食品",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2019/190617/9288738284840657_220.jpg",
+						"PriorId": "7044ff88-2139-4874-ac5b-b8e2275d64b5"
+					},
+					{
+						"CategoryId": "4f968a14-415f-4400-be80-e05585f1dfb5",
+						"CategoryCode": "0905_beer",
+						"CategoryName": "啤酒",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2017/171122/9288715459765110_220.jpg",
+						"PriorId": "7044ff88-2139-4874-ac5b-b8e2275d64b5"
+					}
+				],
+				"Grade": 1,
+				"HighId": "7044ff88-2139-4874-ac5b-b8e2275d64b5",
+				"PictureUrl": "https://img10.yiguoimg.com/e/items/2017/170615/9288709121811151_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+				"CategoryCode": "fresh_fruit",
+				"CategoryName": "新鲜水果",
+				"Childs": [{
+						"CategoryId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"CategoryCode": "fresh_fruit",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img12.yiguoimg.com/d/items/2020/200302/9288740032325730_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "dace27a7-a0a7-44ca-bd5b-7f70780d3d85",
+						"CategoryCode": "angtao",
+						"CategoryName": "车厘子/樱桃",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2020/200520/9288740408404148_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "e199695e-2aec-43a1-b1d9-906e67c955a6",
+						"CategoryCode": "pingguo",
+						"CategoryName": "苹果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2020/200302/9288740031375458_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "ee198741-c1bc-41c4-8c33-2bb1ec9cc39b",
+						"CategoryCode": "ganju",
+						"CategoryName": "柑桔橙柚",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2020/200302/9288740031342690_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "bd539ee3-bfd0-48e7-b240-39b8f583839b",
+						"CategoryCode": "meilei",
+						"CategoryName": "蓝莓/莓类",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200302/9288740031277154_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "d8031700-4aad-4ff8-b90f-e2453606a087",
+						"CategoryCode": "jinguo",
+						"CategoryName": "奇异果/猕猴桃",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2020/200302/9288740031309922_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "4bb77f4c-bf15-49ef-af00-783d2d827fbb",
+						"CategoryCode": "li",
+						"CategoryName": "梨",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2020/200302/9288740031244386_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "434459cf-30fd-4b4e-a57d-4117c25eff29",
+						"CategoryCode": "putao",
+						"CategoryName": "葡萄/提子",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img09.yiguoimg.com/d/items/2020/200302/9288740031211618_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "1e626611-953b-4f52-a6dc-0c3b6654dbee",
+						"CategoryCode": "eli",
+						"CategoryName": "牛油果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2020/200302/9288740031178850_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "c37befe7-61a2-47c6-b7eb-5564ec22f22c",
+						"CategoryCode": "redai",
+						"CategoryName": "热带水果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200302/9288740031146082_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "6a994227-5fdc-4eaf-9a37-eb11f4b9e889",
+						"CategoryCode": "fengli",
+						"CategoryName": "凤梨/菠萝",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img12.yiguoimg.com/d/items/2020/200302/9288740031113314_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "f9863f4f-f530-4107-9342-af3a4b23359e",
+						"CategoryCode": "mango",
+						"CategoryName": "芒果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2020/200302/9288740031080546_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "568a014e-b0ad-4350-b453-a9e5ddd371e6",
+						"CategoryCode": "lemon",
+						"CategoryName": "柠檬",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200302/9288740032161890_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "57bd2ce9-01d1-4849-b721-b676259a31c7",
+						"CategoryCode": "huolongguo",
+						"CategoryName": "火龙果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2020/200302/9288740031015010_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "ea63aca2-2e73-48b2-af11-bb189ee6a4fc",
+						"CategoryCode": "gua",
+						"CategoryName": "瓜类",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2020/200302/9288740030982242_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "a05d677f-c83e-44f2-9b41-5f28ddeafe78",
+						"CategoryCode": "season",
+						"CategoryName": "时令水果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img12.yiguoimg.com/d/items/2020/200302/9288740030818402_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "2e980bae-00a9-4547-9785-f0aa2747c7be",
+						"CategoryCode": "taolixing",
+						"CategoryName": "桃李杏梅",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2020/200302/9288740030949474_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "b2d40af1-c5c8-4bdb-8ef8-0f3643cfa39c",
+						"CategoryCode": "yezi",
+						"CategoryName": "椰子/椰青",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img11.yiguoimg.com/d/items/2020/200302/9288740030916706_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					},
+					{
+						"CategoryId": "453edfaa-2599-47b9-a3ba-267197e50a0e",
+						"CategoryCode": "yuanxiang",
+						"CategoryName": "原箱水果",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2020/200302/9288740030851170_220.jpg",
+						"PriorId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b"
+					}
+				],
+				"Grade": 1,
+				"HighId": "f0e0ca41-81ff-4c19-b16b-03ed2cbe541b",
+				"PictureUrl": "https://img12.yiguoimg.com/d/items/2020/200302/9288740032325730_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "34bf3f9a-186e-4b2a-946d-64055f06ebae",
+				"CategoryCode": "11_channelhome",
+				"CategoryName": "礼品礼券",
+				"Childs": [{
+						"CategoryId": "34bf3f9a-186e-4b2a-946d-64055f06ebae",
+						"CategoryCode": "11_channelhome",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "34bf3f9a-186e-4b2a-946d-64055f06ebae",
+						"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170615/9288709151761103_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "67de0b4e-9cba-49ec-b5f6-b0ceae4226f0",
+						"CategoryCode": "1105_xianhua",
+						"CategoryName": "鲜花/永生花/绿植",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34bf3f9a-186e-4b2a-946d-64055f06ebae",
+						"PictureUrl": "https://img10.yiguoimg.com/e/items/2017/170615/9288709151793871_220.jpg",
+						"PriorId": "34bf3f9a-186e-4b2a-946d-64055f06ebae"
+					},
+					{
+						"CategoryId": "719980a1-1ba9-42dd-b5ff-4f6663737c78",
+						"CategoryCode": "1101_lipinlihe",
+						"CategoryName": "礼品礼盒",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "34bf3f9a-186e-4b2a-946d-64055f06ebae",
+						"PictureUrl": "https://img12.yiguoimg.com/e/items/2017/170615/9288709121516239_220.jpg",
+						"PriorId": "34bf3f9a-186e-4b2a-946d-64055f06ebae"
+					}
+				],
+				"Grade": 1,
+				"HighId": "34bf3f9a-186e-4b2a-946d-64055f06ebae",
+				"PictureUrl": "https://img14.yiguoimg.com/e/items/2017/170615/9288709151761103_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			},
+			{
+				"CategoryId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+				"CategoryCode": "cfyp",
+				"CategoryName": "生活日用",
+				"Childs": [{
+						"CategoryId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+						"CategoryCode": "cfyp",
+						"CategoryName": "全部",
+						"Childs": null,
+						"Grade": 1,
+						"HighId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+						"PictureUrl": "https://img10.yiguoimg.com/d/items/2019/191212/9288739666929548_220.jpg",
+						"PriorId": "00000000-0000-0000-0000-000000000000"
+					},
+					{
+						"CategoryId": "38a94400-83ad-4b7e-a421-196684cd4311",
+						"CategoryCode": "qingjie",
+						"CategoryName": "清洁日用",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+						"PictureUrl": "https://img14.yiguoimg.com/d/items/2020/200323/9288740149012599_220.jpg",
+						"PriorId": "0fdffb05-784b-48f1-bc2c-c20ccd283428"
+					},
+					{
+						"CategoryId": "c4706760-7f46-4f8f-aba3-957e17044548",
+						"CategoryCode": "guoju",
+						"CategoryName": "锅具",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+						"PictureUrl": "https://img09.yiguoimg.com/d/items/2019/191212/9288739666864012_220.jpg",
+						"PriorId": "0fdffb05-784b-48f1-bc2c-c20ccd283428"
+					},
+					{
+						"CategoryId": "f5d250ef-3916-48b5-888c-dc7629b03f0f",
+						"CategoryCode": "xiaobangshou",
+						"CategoryName": "厨房小帮手",
+						"Childs": null,
+						"Grade": 2,
+						"HighId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+						"PictureUrl": "https://img13.yiguoimg.com/d/items/2019/191212/9288739666831244_220.jpg",
+						"PriorId": "0fdffb05-784b-48f1-bc2c-c20ccd283428"
+					}
+				],
+				"Grade": 1,
+				"HighId": "0fdffb05-784b-48f1-bc2c-c20ccd283428",
+				"PictureUrl": "https://img10.yiguoimg.com/d/items/2019/191212/9288739666929548_220.jpg",
+				"PriorId": "00000000-0000-0000-0000-000000000000"
+			}
+		]
+	}
+}
